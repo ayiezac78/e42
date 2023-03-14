@@ -1,0 +1,16 @@
+.btn {
+    width: 100px;
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+    display: inline-block;
+}
+#green {
+    background-color: rgb(15, 143, 15);
+}
+#orange {
+    background-color: rgb(232, 109, 22);
+}
+#red {
+    background-color: rgb(249, 8, 8);
+}
